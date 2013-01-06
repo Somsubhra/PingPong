@@ -9,6 +9,7 @@ $(function() {
    	$("#play").click(function() {
        $('#body').load('html/play.html');
    	});
+	
    
    	$("#howto").click(function(){
 	   	$('#body').load('html/howto.html');
